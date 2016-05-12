@@ -1,0 +1,3 @@
+- selection of unused network resources
+- support for 'exclude' pattern
+- make --old clean ALL OLD VMs, not just only the oldest one
